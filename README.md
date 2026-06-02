@@ -76,21 +76,6 @@ C2-Atos/
         ├── Nos Engagements/
         └── Nos Services/
 ```
-
----
-
-## 💻 Lancement et Utilisation
-
-Aucune installation complexe ni framework n'est requis.
-1. Téléchargez les sources du projet.
-2. Ouvrez simplement le fichier `Accueil.html` dans un navigateur web.
-
-> **⚠️ Note importante :** Les liens entre les pages utilisent des chemins absolus (`/Accueil.html` etc.). Pour une navigation parfaitement fonctionnelle, il est **fortement recommandé** d'utiliser un serveur local pour exécuter le site (par exemple l'extension **Live Server** sur Visual Studio Code).
-
----
-
-## 🎓 Cadre du Projet (PPP)
-
 Ce projet a été réalisé dans le cadre de la **SAE 1.06** de la 1ère année du BUT Informatique.
 
 - **Travail en groupe** : Ce projet a été réalisé en **équipe de 4 personnes**.
